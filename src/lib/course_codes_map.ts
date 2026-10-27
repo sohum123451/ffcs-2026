@@ -136,9 +136,4 @@ export const course_type_map: Record<string, string> = {
   BAHST201: 'E',
   // Winter 2026-27 Courses
   BACSE103: 'E',
-  BACSE104: 'E',
-  BACSE105: 'E',
-  BACSE106: 'E',
-  BAMAT205: 'T',
-  BAPHY105: 'E',
 };
